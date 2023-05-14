@@ -22,3 +22,5 @@ npm install
 
 npm start
 ```
+enjoy!
+### https://srluc.github.io/RickyMortyAPI/
